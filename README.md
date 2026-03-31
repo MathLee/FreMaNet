@@ -1,4 +1,43 @@
 # FreMaNet
-[TGRS2026] [FreMaNet] Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention
+[TGRS2026] [FreMaNet] Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention [Homepage](https://mathlee.github.io/)
+
+# Network Architecture
+   <div align=center>
+   <img src="https://github.com/MathLee/FreMaNet/blob/main/image/FreMaNet.png">
+   </div>
+   
+   
+# Requirements
+   python 3.7 + pytorch 1.9.0
+
+
+# Saliency maps
+   We provide [saliency maps]() (code: ) of our FreMaNet and all compared methods on the ORSSD, EORSSD, and ORSI-4199 datasets.
+
+
+      
+   ![Image](https://github.com/MathLee/FreMaNet/blob/main/image/table.png)
+   
+
+   
+# Evaluation Tool
+   You can use the [evaluation tool (MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
+
+
+# [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary)
+   
+# Citation
+        @ARTICLE{Li_2026_SeaNet,
+                author = {Gongyang Li and Shixiang Shi and Yong Wu and Weisi Lin and Zhen Bai},
+                title = {Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention},
+                journal = {IEEE Transactions on Geoscience and Remote Sensing},
+                volume = {},
+                year = {2026},
+                }
+                
+                
+If you encounter any problems with the code, want to report bugs, etc.
+
+Please contact me at lllmiemie@163.com or ligongyang@shu.edu.cn.
 
 
