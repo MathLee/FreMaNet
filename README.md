@@ -12,7 +12,7 @@
 
 
 # Saliency maps
-   We provide [saliency maps]() (code: ) of our FreMaNet and all compared methods on the ORSSD, EORSSD, and ORSI-4199 datasets.
+   We provide saliency maps of [our FreMaNet](https://github.com/MathLee/FreMaNet/tree/main/SaliencyMap), [lightweight methods](https://pan.baidu.com/s/1r_4FeeOJ4h-klBshg89oCA) (code: frem), and [normal-size methods](https://pan.baidu.com/s/13FVHe5kLilEKtBvC-ZwBxw) (code: frem) on the ORSSD, EORSSD, and ORSI-4199 datasets.
 
 
       
