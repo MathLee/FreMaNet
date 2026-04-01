@@ -43,7 +43,7 @@ Note: Our main model is under './model/GeleNet_models.py'. Our code is built on 
 # [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary)
    
 # Citation
-        @ARTICLE{Li_2026_SeaNet,
+        @ARTICLE{Li_2026_FreMaNet,
                 author = {Gongyang Li and Shixiang Shi and Yong Wu and Weisi Lin and Zhen Bai},
                 title = {Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention},
                 journal = {IEEE Transactions on Geoscience and Remote Sensing},
