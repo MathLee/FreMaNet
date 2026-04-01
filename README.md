@@ -8,7 +8,7 @@
    
    
 # Requirements
-   python 3.7 + pytorch 1.9.0
+   python 3.8 + pytorch 1.13.1
 
 
 # Saliency maps
@@ -17,7 +17,23 @@
 
       
    ![Image](https://github.com/MathLee/FreMaNet/blob/main/image/table.png)
+
    
+# Training
+   We use data_aug.m for data augmentation. 
+   
+   Modify paths of datasets, then run train_FreMaNet.py.
+
+Note: Our main model is under './model/GeleNet_models.py'. Our code is built on GeleNet. So in this code, GeleNet refers to our FreMaNet.
+
+
+
+# Pre-trained model and testing
+1. We provide the pre-trained models in './models/'.
+
+2. Modify paths of pre-trained models and datasets.
+
+3. Run test_FreMaNet.py.
 
    
 # Evaluation Tool
