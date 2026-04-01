@@ -1,5 +1,5 @@
 # FreMaNet
-[TGRS2026] [FreMaNet] Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention [Homepage](https://mathlee.github.io/)
+[TGRS2026] [FreMaNet] Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention [PDF](https://github.com/MathLee/mathlee.github.io/blob/main/PDF/2026_TGRS_Gongyang.pdf) [Homepage](https://mathlee.github.io/)
 
 # Network Architecture
    <div align=center>
