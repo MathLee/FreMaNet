@@ -47,8 +47,10 @@ Note: Our main model is under './model/GeleNet_models.py'. Our code is built on 
                 author = {Gongyang Li and Shixiang Shi and Yong Wu and Weisi Lin and Zhen Bai},
                 title = {Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention},
                 journal = {IEEE Transactions on Geoscience and Remote Sensing},
-                volume = {},
+                pages = {5617112},
+                volume = {64},
                 year = {2026},
+                month = {Apr.},
                 }
                 
                 
