@@ -14,7 +14,7 @@ from model.GeleNet_models import GeleNet
 from data import get_loader
 from utils import clip_gradient, adjust_lr
 
-import pytorch_iou
+import lossfunc
 
 
 # os.environ['CUDA_LAUNCH_BLOCKING'] = '0'
